@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Contry 2020
+comments: yes
 ---
 
 기존의 농사짓는 종류의 게임들에서 한단계 발전함
